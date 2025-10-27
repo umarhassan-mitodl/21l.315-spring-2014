@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "b2b09b9c-739e-715c-9b91-1b9d8f7598fa",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a750e4fb-6023-38c7-fbc6-c6ec6c90eb66",
+    "website": "21l-315-prizewinners-nobelistas-spring-2014"
+  },
+  "course_title": "Prizewinners: Nobelistas",
+  "course_description": "This half-semester Samplings course, worth six instead of the typical twelve credits, drew attention to the thirteen female Nobel laureates.\u00a0As the {{% resource_link \"6601d583-2248-47de-b185-8e6c82daccec\" \"MIT Literature website\" %}} explains, Samplings serve students looking for \"a less intensive, more discussion and reading oriented way of continuing literary study.\" Secondly, \"they allow the Literature Faculty to offer occasional subjects that cannot be permanently and regularly offered. Finally, they are a site of experimentation\u2014a way of trying out new authors and new themes.\"\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.315",
+  "course_image_thumbnail": {
+    "content": "fae20148-c73d-cfb8-71f4-43b1c5352c1b",
+    "website": "21l-315-prizewinners-nobelistas-spring-2014"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "d64accd3-e1fa-44cf-9fc0-76670ba5370a",
+  "site_short_id": "21l.315-spring-2014",
+  "site_url_path": "courses/21l-315-prizewinners-nobelistas-spring-2014",
+  "title": "Course Metadata"
+}

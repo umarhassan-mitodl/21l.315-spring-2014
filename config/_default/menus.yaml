@@ -1,0 +1,32 @@
+leftnav:
+- identifier: ef85e5f9-3ef0-3e54-5d1a-f05de62592fe
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 16c7aa3d-7b05-9dbc-af63-394606314931
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 804462f1-6a2d-101c-b01c-760a28f2c205
+  name: Selecting the Nobelistas
+  pageRef: /pages/instructor-insights/selecting-the-nobelistas
+  parent: 16c7aa3d-7b05-9dbc-af63-394606314931
+  weight: 30
+- identifier: 2806a6e3-1cda-664d-39a9-bfae4850e796
+  name: Facilitating Discussions
+  pageRef: /pages/instructor-insights/facilitating-discussions
+  parent: 16c7aa3d-7b05-9dbc-af63-394606314931
+  weight: 40
+- identifier: 8806cded-5e46-1b74-1c3b-70cebca05503
+  name: Teaching Novices
+  pageRef: /pages/instructor-insights/teaching-novices
+  parent: 16c7aa3d-7b05-9dbc-af63-394606314931
+  weight: 50
+- identifier: 9eb22b94-0824-4f13-8941-7d6aef4fb087
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 28364c70-ea09-8213-7aba-5094001bb91c
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
